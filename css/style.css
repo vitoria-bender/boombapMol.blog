@@ -114,3 +114,29 @@ footer{
 .corpo {
   overflow-x: hidden;
 }
+
+/*pag leitura*/
+  .blog-post {
+      margin-top: 50px;
+  }
+  .blog-post img {
+      max-width: 100%;
+      height: auto;
+  }
+  .blog-post .post-title {
+      margin-top: 20px;
+      font-size: 2.5rem;
+  }
+  .blog-post .post-subtitle {
+      font-size: 1.2rem;
+      color: #6c757d;
+  }
+  .blog-post .post-author {
+      margin-bottom: 20px;
+      font-size: 1rem;
+      color: #6c757d;
+  }
+  .blog-post .post-content {
+      font-size: 1.2rem;
+      text-align: justify;
+  }
